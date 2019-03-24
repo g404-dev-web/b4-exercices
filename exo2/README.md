@@ -1,3 +1,12 @@
+# Hero Product
+Introduction à Bootstrap 4 pour débutants
+
+## Démarrage
+```bash
+git clone https://github.com/simplon-roanne/b4-exercices
+```
+
+## Consignes
 * Faire du dernier élément de la [navbar] un [button] avec bordures rouges
 
 * Remplacer l'ensemble du [hero header] par un [carousel] de 3 slides (le contenu du hero header pourra être repris pour les 3 slides)
