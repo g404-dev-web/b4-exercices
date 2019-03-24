@@ -1,3 +1,12 @@
+# Hello World!
+Introduction à Bootstrap 4 pour débutants
+
+## Démarrage
+```bash
+git clone https://github.com/simplon-roanne/b4-exercices
+```
+
+## Consignes
 * Modifier le menu de sorte à ce qu'il soit transparent et fixe lors de la navigation verticale
 
 * Créer un menu [dropdown] ferré à droite de la sorte :
