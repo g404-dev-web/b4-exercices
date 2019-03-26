@@ -7,7 +7,7 @@ git clone https://github.com/simplon-roanne/b4-exercices
 ```
 
 ## Consignes
-* Transformer la [navbar-collapse] par une [navbar] classique comportant 3 catégories "About", "Galery" et "Contact"
+* Transformer le [collapse] par une [navbar] classique comportant 3 catégories "About", "Galery" et "Contact"
 
 * Modifier le titre H1 du [jumbotron] par un titre original
 
