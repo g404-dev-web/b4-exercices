@@ -17,7 +17,7 @@ git clone https://github.com/simplon-roanne/b4-exercices
 
 * Modifier la section [jumbotron] de la sorte :
 
-  * la hauteur totale de la section est égale à la hauteur totale de la fenêtre du navigateur
+  * la hauteur totale de la section est égale à la hauteur totale de la fenêtre du navigateur (css custom, voir les unités vh)
 
   * le contenu est centré horizontalement & verticalement
 
